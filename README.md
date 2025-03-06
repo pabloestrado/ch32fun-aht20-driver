@@ -58,8 +58,3 @@ int main() {
 ## License
 
 This project is licensed under the MIT License. 
-
-## Acknowledgements
-
-- [PlatformIO](https://platformio.org/)
-- [CH32V003 SDK](https://github.com/wuxx/nanoCH32V003)
